@@ -1,0 +1,68 @@
+# Gradle
+.gradle/
+build/
+/captures
+.externalNativeBuild
+.cxx
+
+# Local configuration (SDK path, machine-specific settings)
+local.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetDropDown.xml
+.idea/deploymentTargetSelector.xml
+.idea/androidTestResultsUserPreferences.xml
+.idea/appInsightsSettings.xml
+.idea/other.xml
+.idea/shelf
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries
+.idea/httpRequests
+.idea/sonarlint
+.idea/**/gradle.xml
+.kotlin/
+
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.dex
+output-metadata.json
+
+# Java class files and logs
+*.class
+*.log
+hs_err_pid*
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Lint / profiling
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+*.hprof
+
+# Secrets
+google-services.json
+keystore.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
